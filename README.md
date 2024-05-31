@@ -11,7 +11,7 @@
 🐶 &nbsp; PetLover forever.\
 💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en isabelmartinez19.30@gmai.com
 
-<img alt="Night Coding" style="width: 200px; height: 200px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN4b2JzMTAycmlrMXkxMXlsdnF6cnoyM3ZlYzRqYWszdTkxdGlmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZQCbV4OW1mXdHJNPS/giphy.gif" align="right"/>
+<img alt="Night Coding" style="width: 250px; height: 250px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN4b2JzMTAycmlrMXkxMXlsdnF6cnoyM3ZlYzRqYWszdTkxdGlmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZQCbV4OW1mXdHJNPS/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
