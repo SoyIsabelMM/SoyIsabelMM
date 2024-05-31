@@ -1,7 +1,5 @@
 # Hola, mi nombre es Isabel Martinez 👋
 
-### FullStack Developer
-
 ![https://github.com/SoyIsabelMM](./image/banner-github.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
