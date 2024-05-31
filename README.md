@@ -2,7 +2,7 @@
 
 ### FullStack Developer
 
-![https://github.com/SoyIsabelMM](./image/github-isabel-martinez.png)
+![https://github.com/SoyIsabelMM](./image/banner-github.png)
 
 <!--
 **SoyIsabelMM/SoyIsabelMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
