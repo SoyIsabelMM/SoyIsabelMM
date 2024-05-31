@@ -11,11 +11,7 @@
 🐶 &nbsp; PetLover forever.\
 💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en isabelmartinez19.30@gmai.com\
 
-<br>
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 
