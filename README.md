@@ -9,7 +9,7 @@
 🚀 &nbsp; Apasionada por la tecnología \
 🎓 &nbsp; Graduada como desarrolladora Fullstack en el Bootcamp Tripleten \
 🐶 &nbsp; PetLover forever.\
-💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en isabelmartinez19.30@gmai.com \
+💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en isabelmartinez19.30@gmai.com
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
