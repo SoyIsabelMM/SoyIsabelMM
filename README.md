@@ -48,7 +48,7 @@
 
 ## Mira como una serpiente se come mis contribuciones 🐍
 
-![snake gif](https://github.com/SoyIsabelMM/SoyIsabelMM/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/SoyIsabelMM/SoyIsabelMM/dd7e98b0d3eea548854274624539bb58d6166dde/snake.svg)
 
 <br/><br/>
 
