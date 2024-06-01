@@ -1,6 +1,7 @@
-# Hola, mi nombre es Isabel Martinez 👋
+<h1 align="center">Hola, mi nombre es Isabel Martinez 🫶🏻</h1>
 
 ![https://github.com/SoyIsabelMM](./image/banner-github.png)
+<br/><br/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -10,6 +11,8 @@
 💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en isabelmartinez19.30@gmai.com
 
 <img alt="Night Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc4OThuYmYxOGVmMXZubmsxczhzdWYzNG03ZWtpdGQ3bnpzanBrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STroE7bTBLTzxQUrZc/giphy.gif" align="right"/>
+
+<br/><br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,7 +29,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
+<br/><br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,15 +38,19 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SoyIsabelMM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SoyIsabelMM&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyIsabelMM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </p>
+
+<br/><br/>
 
 ### 🤝🏻 &nbsp; Encuentrame:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/soyisabelmm/"><img src="https://img.shields.io/badge/-Isabel Martinez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:isabelmartinez19.30@gmail.com"><img src="https://img.shields.io/badge/-isabelmartinez19.30@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/soyisabelmm/"><img src="https://img.shields.io/badge/-@SoyIsabelMM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://github.com/SoyIsabelMM"><img src="https://img.shields.io/badge/-SoyIsabelMM-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soyisabelmm/"><img src="https://img.shields.io/badge/SoyIsabelMM-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:isabelmartinez19.30@gmail.com"><img src="https://img.shields.io/badge/isabelmartinez19.30@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/soyisabelmm/"><img src="https://img.shields.io/badge/%40SoyIsabelMM-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/SoyIsabelMM"><img src="https://img.shields.io/badge/SoyIsabelMM-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </p>
