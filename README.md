@@ -12,8 +12,6 @@
 
 <img alt="Night Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc4OThuYmYxOGVmMXZubmsxczhzdWYzNG03ZWtpdGQ3bnpzanBrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STroE7bTBLTzxQUrZc/giphy.gif" align="right"/>
 
-<br/><br/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,10 +31,10 @@
 
 <p align="center">
 <a href="https://github.com/SoyIsabelMM">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SoyIsabelMM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="18   0em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SoyIsabelMM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SoyIsabelMM&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyIsabelMM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyIsabelMM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph" />
 </p>
 
 ### 🤝🏻 &nbsp; Encuentrame:
