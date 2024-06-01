@@ -29,8 +29,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/><br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,8 +38,6 @@
 </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyIsabelMM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </p>
-
-<br/><br/>
 
 ### 🤝🏻 &nbsp; Encuentrame:
 
