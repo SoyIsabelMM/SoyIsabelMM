@@ -1,4 +1,3 @@
-<h1 align="center">Hola, mi nombre es Isabel Martinez 🫶🏻</h1>
 
 ![https://github.com/SoyIsabelMM](./image/banner-github.png)
 <br/><br/>
